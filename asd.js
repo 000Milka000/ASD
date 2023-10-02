@@ -11,3 +11,6 @@ class Animal {
 
 let cat = new Animal("Кошка", "чёрно-белого");
 cat.asd();
+
+let dog = new Animal("собака", "рыжего");
+dog.asd();
