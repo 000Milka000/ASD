@@ -9,11 +9,8 @@ class Animal {
     }
 }
 
-let cat = new Animal("кошка", "чёрно-белого");
+let cat = new Animal("Кошка", "чёрного");
 cat.asd();
 
-let dog = new Animal("собака", "рыжего");
+let dog = new Animal("собака", "зонарного");
 dog.asd();
-
-let wolf = new Animal("волчиха", "серого");
-wolf.asd();
