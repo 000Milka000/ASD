@@ -4,21 +4,17 @@ class Animal {
         this.color = color
     }
 
-    asd(){
+    sss(){
         console.log(`Это ${this.an}. Она ${this.color} цвета. `)
     }
 }
 
 let cat = new Animal("Кошка", "чёрного");
-cat.asd();
+cat.sss();
 
-<<<<<<< HEAD
-let dog = new Animal("собака", "зонарного");
-dog.asd();
-=======
 let dog = new Animal("собака", "рыжего");
-dog.asd();
+dog.sss();
 
 let wolf = new Animal("волчиха", "серого");
-wolf.asd();
->>>>>>> 472c3a0244bb031c06f12b2b4b693280272040b6
+wolf.sss();
+
