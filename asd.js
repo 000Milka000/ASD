@@ -17,4 +17,16 @@ dog.sss();
 
 let wolf = new Animal("волчиха", "серого");
 wolf.sss();
+  
 
+console.log("")
+
+let fruit = {
+    banan: 5,
+    apple: 2,
+    orange: 14
+};
+
+for (let k in fruit){
+    console.log(`Это фрукт ${k}.`);
+}
