@@ -41,3 +41,6 @@ fruit.forEach((q,w,e) => {
     console.log(`Его номер ${w+1}`)
     console.log(`Исходный массив ${e}`)
     console.log("")})
+
+
+    console.error(`error: FGHJK`)
